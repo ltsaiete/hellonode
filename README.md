@@ -33,7 +33,7 @@ Para executar este projecto, siga os seguintes passos:
 
 
 ## :memo: Licença
-Este projeto está sob a licença GPL-3.0 license . Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 <p align="center">
   <a href="https://twitter.com/ltsaiete" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/twitter.svg" alt="ltsaiete" width="20" height="20" /></a>
