@@ -3,36 +3,30 @@
 </h1>
 
 <p align="center">
- <a href="#hello-node">Hello Node</a> | 
- <a href="#node.js">Node.js</a> | 
- <a href="#requisitos">Requisitos</a> | 
- <a href="#como-executar">Como executar</a> | 
+ <a href="#hello-node">Hello Node</a> |
+ <a href="#node.js">Node.js</a> |
+ <a href="#requisitos">Requisitos</a> |
  <a href="#como-executar">Licença</a>
 </p>
 
 # Hello Node
-Este projecto serve como uma introdução ao Node.js.
-Este código contém um exemplo de como você pode começar construindo suas APIs usando Node.js, TypeScript e Express.js.
+
+Neste repo irei criar alguns projectos contendo algumas experiências que vou tentando com Node.js enquanto aprendo sobre a ferramenta e sobre desenvolvimento backend.
 
 # Node.js
+
 Node.js é um ambiente de execução do JavaScript que é executado no motor do Chrome, V8, e executa código JavaScript fora do navegador.
 
 # Requisitos
+
 Para executar esse projecto você deverá ter instalado:
-* [Node.js](https://nodejs.org/en/) + NPM
-* Um editor de código, por exemplo, o [VS Code](https://code.visualstudio.com/)
-* Um API Client, como o [Insomnia](https://insomnia.rest/download)
 
-# Como executar
-Para executar este projecto, siga os seguintes passos:
-1. Faça clone do repositório: ```$ git clone https://github.com/ltsaiete/hellonode.git```
-2. Abra o directório contendo o código do repositório no terminal
-3. Instale as dependências: ```$ npm install```
-4. Execute o servidor: ```$ npm run dev```
-5. Teste as rotas
-
+- [Node.js](https://nodejs.org/en/) + NPM
+- Um editor de código, por exemplo, o [VS Code](https://code.visualstudio.com/)
+- Um API Client, como o [Insomnia](https://insomnia.rest/download)
 
 ## :memo: Licença
+
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 <p align="center">

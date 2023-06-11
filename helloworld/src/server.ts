@@ -12,7 +12,7 @@ interface UserData {
 const users: UserData[] = [
 	{
 		name: 'Luis',
-		email: 'luistsaiete@gmail.com'
+		email: 'luissaiete@gmail.com'
 	},
 	{
 		name: 'Wesley',
@@ -23,7 +23,7 @@ const users: UserData[] = [
 function findUser(request: Request, response: Response, next: NextFunction) {
 	const { email } = request.params;
 	const index = users.findIndex(user => user.email === email);
-
+	
 	if(index < 0) {
 		return response.json({ error: "User not found" });
 	}
